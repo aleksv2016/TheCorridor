@@ -1,0 +1,25 @@
+body{
+  background: url(./img/background.jpg);
+  background-size: cover;
+}
+
+h2{
+  text-align:center;
+}
+
+.rules{
+  text-align:center;
+  margin: 50px auto auto 20%;
+  height: 80vh;
+  width: 82vh;
+}
+
+.field{
+  text-align:center;
+  margin: 20px auto auto 20%;
+  height: 80vh;
+  width: 82vh;
+  text-align: center;
+  background: url(./img/field.jpg);
+  background-size: inherit;
+}
